@@ -10,13 +10,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+toward+AI+Security;Cloud+Security+%40+CMU" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+toward+AI+Security" alt="typing banner" />
 
 <br/>
 
 # Ella Park
-
-**Security Software Engineer** — WAF · DDoS mitigation · threat modeling &nbsp;|&nbsp; moving into **AI Security**
+**Building Scalable, High-Efficiency Software Ready for AI Security**
 
 <br/>
 
