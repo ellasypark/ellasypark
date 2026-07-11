@@ -33,49 +33,35 @@
 
 Security Software Engineer focused on **web application protection and threat detection**, now applying those foundations to **the security of AI systems**.
 
-
-- 🎓 **Carnegie Mellon University** —  MS in Information Security 
-- 🤖 **Focus** — multi-agent security automation, LLM red-teaming, threat-graph analytics
-- 🏆 1st place — internal AWS WAF multi-agent automation hackathon
-- 📍 Sanfrancisco, CA
+*   **Carnegie Mellon University** — MS in Information Security
+*   **Focus Areas** — Multi-agent security automation, LLM red-teaming, threat-graph analytics
+*   **Honors** — 1st place, Internal AWS WAF multi-agent automation hackathon
+*   **Location** — San Francisco, CA
 
 ---
 
-## Tech Stack
+## Technical Expertise
 
-**Security & Threat Intel**
+### Security & Detection
+*   **AI Governance:** Risk management and compliance frameworks
+*   **Threat Modeling:** MITRE ATT&CK / ATLAS, OWASP Top 10
+*   **Defensive Security:** WAF policy design, DDoS & Bot mitigation
+*   **Operations:** Incident detection and response
 
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C11B17?style=for-the-badge&logoColor=white)
-![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-4B0082?style=for-the-badge&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-2E4057?style=for-the-badge&logoColor=white)
+### Cloud & Edge Computing
+*   **AWS:** Bedrock, Guardrails, CloudWatch, IAM, WAF, RDS, S3, Lambda, EC2
+*   **Akamai:** CDN, WAF
 
-**Cloud & Infrastructure**
+### Software Engineering
+*   **Languages:** Python, Java, JavaScript
+*   **Frameworks:** Spring Boot, React, Next.js
+*   **Infrastructure & Data:** MySQL, Docker, Git
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-CD2264?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### Systems & Networking
+*   **Platforms:** Linux, Windows
+*   **Protocols & Services:** SSL/TLS, HTTP/S, TCP/IP, DNS
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-6E56CF?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-
+  
 ---
 
 ## Featured Projects
