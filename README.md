@@ -70,7 +70,7 @@ Security Software Engineer focused on **web application protection and threat de
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[CortexWAF](https://github.com/ellasypark)**  | Automated AWS WAF rule pipeline with 4 coordinating AI agents; anomaly triage → rule proposal → Slack/SNS alerts. *1st place hackathon.* | Step Functions · Bedrock · Lambda · Python |
-| **[Pretzel](#)** | Threat-detection copilot: server access logs → attack-path graph, MITRE ATT&CK mapping, StealthMole dark-web enrichment. | FastAPI · React · MITRE ATT&CK · StealthMole API |
 | **[ThreatSight](https://github.com/ellasypark/ThreatSight)**  | An AI-agent–powered detection & response analyzer for web / WAF logs. It triages raw access logs through three detection layers, runs a multi-agent LLM investigation over the hits, and maps | MITRE ATT&CK, OWASP, and MITRE ATLAS |
+| **[CortexWAF](https://github.com/ellasypark/CortexWAF)**  | Automated AWS WAF rule pipeline with 4 coordinating AI agents; anomaly triage → rule proposal → Slack/SNS alerts. *1st place hackathon.* | Step Functions · Bedrock · Lambda · Python |
+
 ---
