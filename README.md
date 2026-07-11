@@ -10,12 +10,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+toward+AI+Security" alt="typing banner" />
-
-<br/>
 
 # Ella Park
-**Building Scalable, High-Efficiency Software Ready for AI Security**
+**Security Software Engineer — Engineering Full-Lifecycle System Engineering & AI Security**
 
 <br/>
 
@@ -33,34 +30,29 @@
 Security Software Engineer focused on **web application protection and threat detection**, now applying those foundations to **the security of AI systems**.
 
 *   **Carnegie Mellon University** — MS in Information Security
-*   **Focus Areas** — Multi-agent security automation, LLM red-teaming, threat-graph analytics
-*   **Honors** — 1st place, Internal AWS WAF multi-agent automation hackathon
 *   **Location** — San Francisco, CA
 
 ---
-
 ## Technical Expertise
 
-### Security & Detection
-*   **AI Governance:** Risk management and compliance frameworks
+### 🛡️ Security & Detection
+*   **AI Governance:** Risk management & compliance frameworks
 *   **Threat Modeling:** MITRE ATT&CK / ATLAS, OWASP Top 10
 *   **Defensive Security:** WAF policy design, DDoS & Bot mitigation
-*   **Operations:** Incident detection and response
+*   **Operations:** Incident detection & response
 
-### Cloud & Edge Computing
+### ☁️ Cloud & Edge Computing
 *   **AWS:** Bedrock, Guardrails, CloudWatch, IAM, WAF, RDS, S3, Lambda, EC2
 *   **Akamai:** CDN, WAF
 
-### Software Engineering
-*   **Languages:** Python, Java, JavaScript
-*   **Frameworks:** Spring Boot, React, Next.js
-*   **Infrastructure & Data:** MySQL, Docker, Git
+### 💻 Software Engineering
+*   **Languages:** `Python`, `Java`, `JavaScript`
+*   **Frameworks:** `Spring Boot`, `React`, `Next.js`
+*   **Infrastructure & Data:** `MySQL`, `Docker`, `Git`
 
-### Systems & Networking
+### ⚙️ Systems & Networking
 *   **Platforms:** Linux, Windows
 *   **Protocols & Services:** SSL/TLS, HTTP/S, TCP/IP, DNS
-
-  
 ---
 
 ## Featured Projects
