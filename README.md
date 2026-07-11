@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Security+Software+Engineer+%7C+WAF+%26+Threat+Detection;Building+toward+AI+Security;Cloud+Security+%40+CMU" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+toward+AI+Security;Cloud+Security+%40+CMU" alt="typing banner" />
 
 <br/>
 
@@ -37,7 +37,7 @@ Security Software Engineer focused on **web application protection and threat de
 - 🎓 **Carnegie Mellon University** —  MS in Information Security 
 - 🤖 **Focus** — multi-agent security automation, LLM red-teaming, threat-graph analytics
 - 🏆 1st place — internal AWS WAF multi-agent automation hackathon
-- 📍 Sanfrancisco, CA · Work authorization: F-1 (CPT/OPT eligible)
+- 📍 Sanfrancisco, CA
 
 ---
 
