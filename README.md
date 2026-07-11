@@ -29,8 +29,7 @@
 
 Security Software Engineer focused on **web application protection and threat detection**, now applying those foundations to **the security of AI systems**.
 
-*   **Carnegie Mellon University** — MS in Information Security
-*   **Location** — San Francisco, CA
+* 🎓 **Carnegie Mellon University** — MS in Information Security &nbsp;|&nbsp; 📍 San Francisco, CA
 
 ---
 ## Technical Expertise
