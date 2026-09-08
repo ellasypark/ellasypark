@@ -3,5 +3,9 @@ M.S. in Information Security / AI Security @ Carnegie Mellon University
 
 - reach out me at ellapark@andrew.cmu.edu
 
-* **[ThreatSight](https://github.com/ellasypark/ThreatSight)**  | An AI-agent–powered detection & response analyzer for web / WAF logs. \n
-* **[CortexWAF](https://github.com/ellasypark/CortexWAF)**  | Automated AWS WAF rule pipeline with 4 coordinating AI agents; anomaly triage → rule proposal → Slack/SNS alerts. *1st place hackathon.* 
+* **[ThreatSight](https://github.com/ellasypark/ThreatSight)**  | An AI-agent–powered detection & response analyzer for web / WAF logs.
+* **[CortexWAF](https://github.com/ellasypark/CortexWAF)**  | Automated AWS WAF rule pipeline with 4 coordinating AI agents; anomaly triage → rule proposal → Slack/SNS alerts. *1st place hackathon.*
+
+* **[Agent Security Lab](https://github.com/ellasypark/agent-security-lab)** | A Python lab for task-scoped tool authorization; prompt-injection scenarios → permission checks → blocked unauthorized actions.
+
+* **[Agent Runtime EDR](https://github.com/ellasypark/agent-runtime-edr)** | An educational AI agent detection & response lab; runtime telemetry → repeated policy-violation detection → run-level containment.
