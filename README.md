@@ -1,6 +1,6 @@
 **Building Secure Web & AI Security**  
 M.S. in Information Security / AI Security @ Carnegie Mellon University
-blog (https://ellasypark.github.io/)
+https://ellasypark.github.io/
 
 * **[CortexWAF](https://github.com/ellasypark/CortexWAF)**  | AWS WAF log analysis and rule management with a React dashboard and a separate Bedrock / Claude event-triage pipeline. Planned: application-aware RAG, evidence-backed recommendations, and analyst-reviewed rule updates. *AWS AI Agent Hackathon winner*
 
